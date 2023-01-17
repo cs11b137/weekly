@@ -1,6 +1,6 @@
 # JavaScript
 
-- [打包 JavaScript 库](https://mp.weixin.qq.com/s/m-i_Et6YqkZ0aj537vN2_A)
+- [~~打包 JavaScript 库~~](https://mp.weixin.qq.com/s/m-i_Et6YqkZ0aj537vN2_A)
 - [JS 代码在内存中的'形状'](https://mp.weixin.qq.com/s/OqFlCvmAu1AD4okRDZc-9w)
 - [JS 的异步机制](https://mp.weixin.qq.com/s/jfXQgAR6Su8yvwgc24g-Lw)
 - [Promise 实践应用与控制反转](https://mp.weixin.qq.com/s/36he_7HHuYNKyKS53B8nFQ)
