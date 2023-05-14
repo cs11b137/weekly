@@ -25,3 +25,4 @@
 - [见微知著 - 1000 字带你掌握 nextTick 背后的原理](https://mp.weixin.qq.com/s/VQsT7SWMZO5rXVtr8bjWvQ)
 - [关于 Vue 3 的 IE11 支持](https://zhuanlan.zhihu.com/p/362000763)
 - [刨根问底，揭开 Vue 中 Scope CSS 实现的幕后（原理）](https://mp.weixin.qq.com/s/MJScjoqGtKh9IuFpfMbbQg)
+- [一个服务端同学的Vue框架入门及实践](https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650504689&idx=1&sn=0228a06be2422a16d48c043e3edab51f&scene=21#wechat_redirect)

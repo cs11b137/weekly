@@ -57,3 +57,5 @@
 - [React + TypeScript 实践](https://mp.weixin.qq.com/s/mUblBpj6pmdxz9mLKEDJTw)
 - [从中断机制看 React Fiber 技术](https://mp.weixin.qq.com/s/xVzWzQInPgPqaJhR9M_Nzw)
 - [探索 Table 组件虚拟化](https://mp.weixin.qq.com/s/X2b4ewT-99HdNuC1Wg-Tew)
+- [React SSR 实现原理：从 renderToString 到 hydrate](https://mp.weixin.qq.com/s?__biz=Mzg3OTYzMDkzMg==&mid=2247495573&idx=1&sn=659269750fecc1dd3b7407892a3ca2d2&chksm=cf0320aef874a9b820ddbb88fb55595fe0eea14ddf467f87e22ceffb46e4b897df18fc932bea&token=236307061&lang=zh_CN&scene=21#wechat_redirect)
+- [2023年如何搭建新的 React 项目？](https://mp.weixin.qq.com/s?__biz=MzU2MTIyNDUwMA==&mid=2247513850&idx=1&sn=f1f70062e4862255cef0939777251a12&chksm=fc7ef8a1cb0971b790894f5d1c9fc645a5d5ddfc3cfbfc7da13591aa188862f90cac74fc25af&scene=21#wechat_redirect)
