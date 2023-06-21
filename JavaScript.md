@@ -60,3 +60,5 @@
 - [JavaScript 中的 Generator 有什么用？](https://mp.weixin.qq.com/s?__biz=Mzk0MDMwMzQyOA==&mid=2247497274&idx=1&sn=1d1eb44efece94e60b409dbfa73fc927&chksm=c2e10311f5968a073d20e79d7ac8b096f8d9ae54892af2ee379860081ccd36e4fb183b31b6a3&token=236307061&lang=zh_CN&scene=21#wechat_redirect)
 - [这才是现代 JavaScript 库打包指南！](https://mp.weixin.qq.com/s?__biz=MzU3MDAyNDgwNA==&mid=2247496203&idx=1&sn=e9cf35e4bb85e752e00d1ca8853e7692&scene=21#wechat_redirect)
 - [3个容易混淆的前端框架概念](https://mp.weixin.qq.com/s?__biz=MzkzMjIxNTcyMA==&mid=2247491769&idx=1&sn=53955fe4ef27c1c71ee5f30087d9fe1a&scene=21#wechat_redirect)
+- [JavaScript 奇技淫巧：debugger 拦截](https://mp.weixin.qq.com/s?__biz=MzA5NjUxMTM2MQ==&mid=2247499001&idx=1&sn=0523426e15707b42ee32d3b565121638&scene=21#wechat_redirect)
+- [谈谈前端模块化的演变历程](https://mp.weixin.qq.com/s?__biz=MzU2MTIyNDUwMA==&mid=2247514351&idx=2&sn=73a906c5ff06faa8a4acb5d9ea01c7e9&chksm=fc7ef6b4cb097fa24a04d7c78cd66c75678f2ca4e7bcec76845cd1689ebaa24af0132e8c9b31&token=372471149&lang=zh_CN&scene=21#wechat_redirect)
