@@ -1,6 +1,6 @@
 # 周刊
 
-## 国内
+### 国内
 
 - [科技爱好者周刊](https://github.com/ruanyf/weekly)
 - [前端食堂技术周刊](https://github.com/Geekhyt/weekly)
@@ -10,7 +10,7 @@
 - [前端精读](https://github.com/ascoders/weekly)
 - [奇舞周刊](https://weekly.75.team/)
 
-## 国外
+### 国外
 
 - [Frontend Focus](https://frontendfoc.us/issues)
 - [CSS Weekly](https://css-weekly.com/archives/)
