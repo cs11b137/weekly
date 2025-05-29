@@ -3,9 +3,6 @@
 ### 国内
 
 - [科技爱好者周刊](https://github.com/ruanyf/weekly)
-- [前端食堂技术周刊](https://github.com/Geekhyt/weekly)
-- [MDH 前端周刊](https://github.com/sorrycc/weekly)
-- [DevWeekly](https://github.com/Jackpopc/DevWeekly)
 - [潮流周刊](https://github.com/tw93/weekly)
 - [前端精读](https://github.com/ascoders/weekly)
 - [奇舞周刊](https://weekly.75.team/)
